@@ -1,0 +1,5 @@
+model_name,encoding_name
+GPT-3.5-turbo,cl100k_base
+GPT-4,cl100k_base
+GPT-4o,o200k_base
+GPT-4o mini,o200k_base
